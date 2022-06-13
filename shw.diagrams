@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T10:47:51.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="e5O1vfB6DFcDZicZtMZv" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T10:51:02.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="Oun4RTbijbX4bRXs4I2a" version="20.0.0" type="github">
   <diagram id="TJXRCZabPML1FcDsN0Pc" name="Page-1">
     <mxGraphModel dx="1278" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -578,22 +578,22 @@
           <mxGeometry x="65.37" y="3115" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U32EZ3xW4qAucMZjEn-r-75" value="로그인 실패 렌더링" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="3270" width="110" height="40" as="geometry" />
+          <mxGeometry x="581.5" y="3270" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U32EZ3xW4qAucMZjEn-r-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U32EZ3xW4qAucMZjEn-r-63" target="U32EZ3xW4qAucMZjEn-r-75">
+        <mxCell id="U32EZ3xW4qAucMZjEn-r-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U32EZ3xW4qAucMZjEn-r-54" target="U32EZ3xW4qAucMZjEn-r-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="3150" as="sourcePoint" />
             <mxPoint x="590" y="3070" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="3145" />
+              <mxPoint x="460" y="3290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U32EZ3xW4qAucMZjEn-r-79" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="3085" width="150" height="30" as="geometry" />
+          <mxGeometry x="470" y="3085" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U32EZ3xW4qAucMZjEn-r-80" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="3260" width="150" height="30" as="geometry" />
+          <mxGeometry x="450" y="3250" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U32EZ3xW4qAucMZjEn-r-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U32EZ3xW4qAucMZjEn-r-81" target="U32EZ3xW4qAucMZjEn-r-83">
           <mxGeometry relative="1" as="geometry" />
@@ -605,7 +605,7 @@
           <mxGeometry x="820.5" y="3125" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U32EZ3xW4qAucMZjEn-r-85" value="3항식 사용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="684.5" y="3085" width="150" height="30" as="geometry" />
+          <mxGeometry x="683" y="3095" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
